@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const scriptCanvas = document.querySelector('.script-canvas');
     const scriptNavContainer = document.querySelector('.script-nav-container');
-    const jsonFilePath = 'https://acesv3.pages.dev/scripts-list.json';
+    const jsonFilePath = 'https://acesv3.pages.dev/scripts_list.json';
     const customerInput = document.getElementById('customer');
     const agentInput = document.getElementById('user');
     let stateManager;
@@ -449,4 +449,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
+
 

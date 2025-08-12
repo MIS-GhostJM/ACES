@@ -6955,7 +6955,7 @@
     "description": "Request Stated & Verified",
     "cards": [
       {
-        "content": "Welcome to Customer Care [Customer Name],  you’re speaking with [Agent Name]. ",
+        "content": "Welcome to Customer Care [Cx Name],  you’re speaking with [Agent Name]. ",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -6976,7 +6976,7 @@
     "description": "Request Not Stated but Verified",
     "cards": [
       {
-        "content": "Welcome to Customer Care [Customer Name], you’re speaking with [Agent Name]. How may I assist you today?",
+        "content": "Welcome to Customer Care [Cx Name], you’re speaking with [Agent Name]. How may I assist you today?",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       }
@@ -6992,7 +6992,7 @@
     "description": "Request Not Stated & Not Verified",
     "cards": [
       {
-        "content": "Welcome to Customer Care [Customer Name], you’re speaking with [Agent Name].",
+        "content": "Welcome to Customer Care [Cx Name], you’re speaking with [Agent Name].",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7023,7 +7023,7 @@
     "description": "Request Stated & Not Verified",
     "cards": [
       {
-        "content": "Welcome to Customer Care [Customer Name], you’re speaking with [Agent Name].",
+        "content": "Welcome to Customer Care [Cx Name], you’re speaking with [Agent Name].",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7054,7 +7054,7 @@
     "description": "Request Stated & Verified",
     "cards": [
       {
-        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name]! My name is [Agent Name]!",
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Cx Name]! My name is [Agent Name]!",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7075,7 +7075,7 @@
     "description": "Request Not Stated but Verified",
     "cards": [
       {
-        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name], you’re speaking with [Agent Name]. How may I assist you today?",
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Cx Name], you’re speaking with [Agent Name]. How may I assist you today?",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       }
@@ -7091,7 +7091,7 @@
     "description": "Request Not Stated & Not Verified",
     "cards": [
       {
-        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name]! My name is [Agent Name]!",
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Cx Name]! My name is [Agent Name]!",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7122,7 +7122,7 @@
     "description": "Request Stated & Not Verified",
     "cards": [
       {
-        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name]! My name is [Agent Name]!",
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Cx Name]! My name is [Agent Name]!",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7153,7 +7153,7 @@
     "description": "Request Stated & Verified",
     "cards": [
       {
-        "content": "Welcome to Customer Care  [Customer Name], you’re speaking with [Agent Name].",
+        "content": "Welcome to Customer Care  [Cx Name], you’re speaking with [Agent Name].",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },
@@ -7174,7 +7174,7 @@
     "description": "Request Stated & Verified",
     "cards": [
       {
-        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name]! My name is [Agent Name].",
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Cx Name]! My name is [Agent Name].",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },

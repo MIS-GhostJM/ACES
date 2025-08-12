@@ -6949,13 +6949,34 @@
     "updated": "2025-03-05T19:55:57.616Z"
   },
   {
-    "id": "CEP Scripts",
+    "id": "CEP Scripts (ETG)",
     "category": "chat",
     "title": "CHAT Opening (Non-Transferred)",
     "description": "Request Stated & Verified",
     "cards": [
       {
         "content": "Welcome to Customer Care [Customer First Name],  you’re speaking with [Agent First Name]. ",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "I see that you have shared your request, please give me a moment to review it.",
+        "created": "2025-08-12T10:13:39.013Z",
+        "updated": "2025-08-12T10:13:51.551Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+    {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Stated & Verified",
+    "cards": [
+      {
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer First Name]! My name is [Agent First Name]!",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       },

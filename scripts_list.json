@@ -7047,7 +7047,7 @@
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
   },
-    {
+  {
     "id": "CEP Scripts (B.COM)",
     "category": "chat",
     "title": "CHAT Opening (Non-Transferred)",
@@ -7068,7 +7068,7 @@
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
   },
-    {
+  {
     "id": "CEP Scripts (B.COM)",
     "category": "chat",
     "title": "CHAT Opening (Non-Transferred)",
@@ -8087,5 +8087,569 @@
     "tags": [],
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "When the ticket is within 'void' window (no add-ons)",
+    "cards": [
+      {
+        "content": "Thank you for waiting, [Cx Name]. I'm very happy to inform you we can cancel the reservation as it's still under same-day booking and you can have the refund less the handling fee from our end. The rest of the amount will be refunded back to the orignal form of payment. Your refund is expected to be processed within two (2) weeks. A confirmation email will be sent once it's complete.<br>Would you like to proceed with the cancellation?",
+        "created": "2025-08-12T13:49:12.867Z",
+        "updated": "2025-08-12T13:51:04.225Z"
+      },
+      {
+        "content": "Thank you for waiting, [Cx Name]. I'm very happy to inform you we can cancel the reservation as it's still under same- day booking and you can have the refund less the handling fee from our end.<br>I have checked and you have some add-on products as well which can't be refunded after cancellation.<br>These products are:<br>[nonrefundable products]<br>The rest of the amount will be refunded back to the original form of payment.<br>Your refund is expected to be processed within two (2) weeks. A confirmation email will be sent once it's complete.<br><br>Would you like to proceed with the cancellation?",
+        "created": "2025-08-12T13:51:06.248Z",
+        "updated": "2025-08-12T13:53:10.610Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:53:34.028Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "The customer wants to cancel (full refund applicable and ATC/Edvin Calculator is working)",
+    "cards": [
+      {
+        "content": "Hi [Cx Name], According to the airline terms and conditions for cancellation, cancellation fees will apply which are listed below:<br>Total to pay for cancellation: [Total Fee]<br>-Breakdown-<br>Airline cancellation fee: [YY Fee]<br>Handling fee: [Handling fee]<br>Total Refund Amount: [Total  Refund Amount]<br><br>We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like us to proceed with canceling your booking and submitting a refund request to the airline?",
+        "created": "2025-08-12T13:53:34.049Z",
+        "updated": "2025-08-12T13:55:49.237Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:56:06.389Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "ATC Cancel (Tax refund only)",
+    "cards": [
+      {
+        "content": "I understand this might not be ideal, but under airline policies, the ticket – including any additional services (like baggage, seats, or meals) – is non-refundable. The good news is that a portion of the taxes may be eligible for a refund. If you cancel now, a service fee of [XXX] will be deducted, and you will receive [amount] [currency] as a refund.<br><br>We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like me to proceed with the cancellation and tax refund request?\"",
+        "created": "2025-08-12T13:56:06.412Z",
+        "updated": "2025-08-12T13:57:36.040Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:57:50.326Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "The customer wants to cancel full refund applicable",
+    "cards": [
+      {
+        "content": "Hi [Cx Name], According to the airline terms and conditions for cancellation, cancellation fees will apply which are listed below:<br>Total to pay for Cancellation: [Total Fee]<br>-Breakdown of charge-<br>Airline Cancellation fee: [YY Fee]<br>Handling fee: [Handling fee]<br>Please note that some taxes and additional services may not be refundable according to the airline's policies. We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like us to proceed with canceling your booking and submitting a refund request to the airline?",
+        "created": "2025-08-12T13:57:50.345Z",
+        "updated": "2025-08-12T13:59:45.414Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:00:17.919Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Cancel (Non-refundable)",
+    "cards": [
+      {
+        "content": "According to the airline rules, the ticket, including any add-on products such as (baggage/seats/meals) fees, is non-refundable. Would you still like me to cancel your booking?",
+        "created": "2025-08-12T14:00:17.938Z",
+        "updated": "2025-08-12T14:01:15.801Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:01:36.191Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Customer wants to cancel - No refund applicable but with voucher",
+    "cards": [
+      {
+        "content": "Thank you for patiently waiting, [Cx Name], the airline's rules indicate that they are ONLY allowing a future travel credit/voucher instead of a refund. Should I secure this for you as you can use this up to [voucher validity] months. Shall we go ahead and cancel the booking?",
+        "created": "2025-08-12T14:01:36.209Z",
+        "updated": "2025-08-12T14:02:23.943Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:02:32.927Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Cancellation with cancelation protection (medical)",
+    "cards": [
+      {
+        "content": "I can see that you purchased a cancellation protection. Please note the following requirements to submit a claim:<br>1. A medical certificate must be submitted and completed by a doctor affiliated with the Social Insurance Office. The certificate must bear the name, contact telephone number and stamp of the doctor.<br>2. A copy of the doctor's identification must be enclosed if no stamp is available.<br>3. The doctor's certificate must state the examination date, examination results, diagnosis and the fact that you are unable to travel.<br>4. The doctor must use the Gotogate doctor's certificate (I will send the link via email): this is the only doctor's certificate we accept. The doctor's certificate must be printed by an independent party for the doctor's certificate to be valid.<br><br>Please let me know if you have any questions.<br>The next step we will undertake is to cancel your flights.<br><br>Would you like to proceed?",
+        "created": "2025-08-12T14:02:32.952Z",
+        "updated": "2025-08-12T14:04:21.880Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:04:52.400Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Rebooking Change Breakdown",
+    "cards": [
+      {
+        "content": "Currently, the charges for rebooking, including the tax and/or fare difference are listed below:<br>Total to pay for change: [Total payment for change]<br>-Breakdown of charges-<br>Airline change fee: [YY fee]<br>Handling fee: [Handling Fee]<br>Fare difference: [Fare Difference]<br>New flight details :<br><br>X-------------------------X<br><br>Would you like to proceed with the changes?.",
+        "created": "2025-08-12T14:04:52.422Z",
+        "updated": "2025-08-12T14:06:46.716Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:07:00.457Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Change request - not-permitted/non-refundable",
+    "cards": [
+      {
+        "content": "After reviewing your booking, I found that the ticket is non-refundable and cannot be modified under the current fare conditions. Would you be interested in making a new booking instead?",
+        "created": "2025-08-12T14:07:00.480Z",
+        "updated": "2025-08-12T14:07:27.626Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:07:33.425Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Cancellation (Void) Has Been Completed",
+    "cards": [
+      {
+        "content": "Your booking for all passengers has been successfully cancelled. The ticket is refundable, minus a [total] cancellation fee and certain non-refundable taxes. Please be aware that some taxes may not be eligible for refund. The refund will be issued to your original payment method within two weeks, and a confirmation will be sent to your registered email address. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:07:33.451Z",
+        "updated": "2025-08-12T14:08:12.220Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:08:15.553Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "\" Cancellation Completed (Full refund applicable)\"\n",
+    "cards": [
+      {
+        "content": "Your booking has been successfully cancelled. A total cancellation fee of [Total Fee] was applied, including an airline fee of [YY Fee] and a handling fee of [Handling Fee]. The estimated refund amount is [Total Refund Amount], which will be processed within 10–15 business days. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:08:15.571Z",
+        "updated": "2025-08-12T14:08:42.476Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:08:48.498Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "\"Cancellation Completed (Non Refundable)\"",
+    "cards": [
+      {
+        "content": "Your booking has been successfully canceled. While I understand this may not be the outcome you were hoping for, please note that, in line with the airline’s policy, the ticket and any add-on fees (baggage, seats, meals) are non-refundable. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:08:48.520Z",
+        "updated": "2025-08-12T14:09:42.642Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:09:46.801Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Customer wants to cancel No refund applicable but with voucher",
+    "cards": [
+      {
+        "content": "Your booking has been successfully canceled, [Customer Name]. In accordance with the airline’s policy, a future travel credit/voucher has been issued in place of a refund. This credit is valid for [voucher validity] months and can be used toward a future booking.<br><br>If you have any questions or need assistance using your voucher, please contact the airline’s customer support at [YY phone number] and provide them with your reference number: [YY reference number].<br><br>Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:09:46.821Z",
+        "updated": "2025-08-12T14:11:09.356Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:11:18.666Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Rebooking Completed",
+    "cards": [
+      {
+        "content": "Your rebooking has been successfully completed.  New flight details:<br><br>X-------------------------X<br><br>Total amount paid: [Total payment for change] <br><br>Your updated booking confirmation will be sent to your registered email address. Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:11:18.683Z",
+        "updated": "2025-08-12T14:12:22.458Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:12:34.451Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Cancellation Not Completed (Inquiry only)",
+    "cards": [
+      {
+        "content": "To summarize, you have opted not to proceed with the cancellation at this time; therefore, the booking will remain active. Should you require assistance with canceling the order, please feel free to contact us on or before [Deadline].<br><br>Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:12:34.470Z",
+        "updated": "2025-08-12T14:13:10.062Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:13:15.515Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Rebooking not completed (Inquiry only)",
+    "cards": [
+      {
+        "content": "As you have chosen not to proceed with the rebooking at this time, no changes have been made to your current booking.<br><br>If you wish to proceed, please contact us on or before [Deadline]. Kindly note that prices and availability are subject to change without prior notice, and the quoted fare may no longer be guaranteed after this date.",
+        "created": "2025-08-12T14:13:15.534Z",
+        "updated": "2025-08-12T14:13:45.053Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:13:53.019Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Close",
+    "description": "",
+    "cards": [
+      {
+        "content": "Thank you for using our service. Should you require any further assistance, please don’t hesitate to get in touch. Wishing you a wonderful day ahead!",
+        "created": "2025-08-12T14:13:53.038Z",
+        "updated": "2025-08-12T14:14:16.254Z"
+      },
+      {
+        "content": "Thank you for contacting us. Should you require any further assistance, please don’t hesitate to get in touch. Wishing you a wonderful day ahead!",
+        "created": "2025-08-12T14:14:18.010Z",
+        "updated": "2025-08-12T14:14:21.900Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:14:31.332Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "When the ticket is within 'void' window (no add-ons)",
+    "cards": [
+      {
+        "content": "Thank you for waiting, [Cx Name]. I'm very happy to inform you we can cancel the reservation as it's still under same-day booking and you can have the refund less the handling fee from our end. The rest of the amount will be refunded back to the orignal form of payment. Your refund is expected to be processed within two (2) weeks. A confirmation email will be sent once it's complete.<br>Would you like to proceed with the cancellation?",
+        "created": "2025-08-12T13:49:12.867Z",
+        "updated": "2025-08-12T13:51:04.225Z"
+      },
+      {
+        "content": "Thank you for waiting, [Cx Name]. I'm very happy to inform you we can cancel the reservation as it's still under same- day booking and you can have the refund less the handling fee from our end.<br>I have checked and you have some add-on products as well which can't be refunded after cancellation.<br>These products are:<br>[nonrefundable products]<br>The rest of the amount will be refunded back to the original form of payment.<br>Your refund is expected to be processed within two (2) weeks. A confirmation email will be sent once it's complete.<br><br>Would you like to proceed with the cancellation?",
+        "created": "2025-08-12T13:51:06.248Z",
+        "updated": "2025-08-12T13:53:10.610Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:53:34.028Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "The customer wants to cancel (full refund applicable and ATC/Edvin Calculator is working)",
+    "cards": [
+      {
+        "content": "Hi [Cx Name], According to the airline terms and conditions for cancellation, cancellation fees will apply which are listed below:<br>Total to pay for cancellation: [Total Fee]<br>-Breakdown-<br>Airline cancellation fee: [YY Fee]<br>Handling fee: [Handling fee]<br>Total Refund Amount: [Total  Refund Amount]<br><br>We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like us to proceed with canceling your booking and submitting a refund request to the airline?",
+        "created": "2025-08-12T13:53:34.049Z",
+        "updated": "2025-08-12T13:55:49.237Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:56:06.389Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "ATC Cancel (Tax refund only)",
+    "cards": [
+      {
+        "content": "I understand this might not be ideal, but under airline policies, the ticket – including any additional services (like baggage, seats, or meals) – is non-refundable. The good news is that a portion of the taxes may be eligible for a refund. If you cancel now, a service fee of [XXX] will be deducted, and you will receive [amount] [currency] as a refund.<br><br>We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like me to proceed with the cancellation and tax refund request?\"",
+        "created": "2025-08-12T13:56:06.412Z",
+        "updated": "2025-08-12T13:57:36.040Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T13:57:50.326Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "The customer wants to cancel full refund applicable",
+    "cards": [
+      {
+        "content": "Hi [Cx Name], According to the airline terms and conditions for cancellation, cancellation fees will apply which are listed below:<br>Total to pay for Cancellation: [Total Fee]<br>-Breakdown of charge-<br>Airline Cancellation fee: [YY Fee]<br>Handling fee: [Handling fee]<br>Please note that some taxes and additional services may not be refundable according to the airline's policies. We aim to process refunds within six (6) days of receiving the funds from the airline, and we promptly forward all requests as soon as you confirm the cancellation. While most airlines complete their part within five (5) business days, the full process—including our issuance of the refund, may take up to 10-15 business days.<br><br>Would you like us to proceed with canceling your booking and submitting a refund request to the airline?",
+        "created": "2025-08-12T13:57:50.345Z",
+        "updated": "2025-08-12T13:59:45.414Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:00:17.919Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Cancel (Non-refundable)",
+    "cards": [
+      {
+        "content": "According to the airline rules, the ticket, including any add-on products such as (baggage/seats/meals) fees, is non-refundable. Would you still like me to cancel your booking?",
+        "created": "2025-08-12T14:00:17.938Z",
+        "updated": "2025-08-12T14:01:15.801Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:01:36.191Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Customer wants to cancel - No refund applicable but with voucher",
+    "cards": [
+      {
+        "content": "Thank you for patiently waiting, [Cx Name], the airline's rules indicate that they are ONLY allowing a future travel credit/voucher instead of a refund. Should I secure this for you as you can use this up to [voucher validity] months. Shall we go ahead and cancel the booking?",
+        "created": "2025-08-12T14:01:36.209Z",
+        "updated": "2025-08-12T14:02:23.943Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:02:32.927Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Cancellation with cancelation protection (medical)",
+    "cards": [
+      {
+        "content": "I can see that you purchased a cancellation protection. Please note the following requirements to submit a claim:<br>1. A medical certificate must be submitted and completed by a doctor affiliated with the Social Insurance Office. The certificate must bear the name, contact telephone number and stamp of the doctor.<br>2. A copy of the doctor's identification must be enclosed if no stamp is available.<br>3. The doctor's certificate must state the examination date, examination results, diagnosis and the fact that you are unable to travel.<br>4. The doctor must use the Gotogate doctor's certificate (I will send the link via email): this is the only doctor's certificate we accept. The doctor's certificate must be printed by an independent party for the doctor's certificate to be valid.<br><br>Please let me know if you have any questions.<br>The next step we will undertake is to cancel your flights.<br><br>Would you like to proceed?",
+        "created": "2025-08-12T14:02:32.952Z",
+        "updated": "2025-08-12T14:04:21.880Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:04:52.400Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Rebooking Change Breakdown",
+    "cards": [
+      {
+        "content": "Currently, the charges for rebooking, including the tax and/or fare difference are listed below:<br>Total to pay for change: [Total payment for change]<br>-Breakdown of charges-<br>Airline change fee: [YY fee]<br>Handling fee: [Handling Fee]<br>Fare difference: [Fare Difference]<br>New flight details :<br><br>X-------------------------X<br><br>Would you like to proceed with the changes?.",
+        "created": "2025-08-12T14:04:52.422Z",
+        "updated": "2025-08-12T14:06:46.716Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:07:00.457Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Discuss Solution & Gain Agreement",
+    "description": "Change request - not-permitted/non-refundable",
+    "cards": [
+      {
+        "content": "After reviewing your booking, I found that the ticket is non-refundable and cannot be modified under the current fare conditions. Would you be interested in making a new booking instead?",
+        "created": "2025-08-12T14:07:00.480Z",
+        "updated": "2025-08-12T14:07:27.626Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:07:33.425Z"
+  },
+  {
+    "id": "CEP Scripts (EB.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Cancellation (Void) Has Been Completed",
+    "cards": [
+      {
+        "content": "Your booking for all passengers has been successfully cancelled. The ticket is refundable, minus a [total] cancellation fee and certain non-refundable taxes. Please be aware that some taxes may not be eligible for refund. The refund will be issued to your original payment method within two weeks, and a confirmation will be sent to your registered email address. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:07:33.451Z",
+        "updated": "2025-08-12T14:08:12.220Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:08:15.553Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "\" Cancellation Completed (Full refund applicable)\"\n",
+    "cards": [
+      {
+        "content": "Your booking has been successfully cancelled. A total cancellation fee of [Total Fee] was applied, including an airline fee of [YY Fee] and a handling fee of [Handling Fee]. The estimated refund amount is [Total Refund Amount], which will be processed within 10–15 business days. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:08:15.571Z",
+        "updated": "2025-08-12T14:08:42.476Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:08:48.498Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "\"Cancellation Completed (Non Refundable)\"",
+    "cards": [
+      {
+        "content": "Your booking has been successfully canceled. While I understand this may not be the outcome you were hoping for, please note that, in line with the airline’s policy, the ticket and any add-on fees (baggage, seats, meals) are non-refundable. Is there anything else I can help you with today?",
+        "created": "2025-08-12T14:08:48.520Z",
+        "updated": "2025-08-12T14:09:42.642Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:09:46.801Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Customer wants to cancel No refund applicable but with voucher",
+    "cards": [
+      {
+        "content": "Your booking has been successfully canceled, [Customer Name]. In accordance with the airline’s policy, a future travel credit/voucher has been issued in place of a refund. This credit is valid for [voucher validity] months and can be used toward a future booking.<br><br>If you have any questions or need assistance using your voucher, please contact the airline’s customer support at [YY phone number] and provide them with your reference number: [YY reference number].<br><br>Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:09:46.821Z",
+        "updated": "2025-08-12T14:11:09.356Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:11:18.666Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Rebooking Completed",
+    "cards": [
+      {
+        "content": "Your rebooking has been successfully completed.  New flight details:<br><br>X-------------------------X<br><br>Total amount paid: [Total payment for change] <br><br>Your updated booking confirmation will be sent to your registered email address. Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:11:18.683Z",
+        "updated": "2025-08-12T14:12:22.458Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:12:34.451Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Cancellation Not Completed (Inquiry only)",
+    "cards": [
+      {
+        "content": "To summarize, you have opted not to proceed with the cancellation at this time; therefore, the booking will remain active. Should you require assistance with canceling the order, please feel free to contact us on or before [Deadline].<br><br>Is there anything else I can assist you with today?",
+        "created": "2025-08-12T14:12:34.470Z",
+        "updated": "2025-08-12T14:13:10.062Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:13:15.515Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Summarize and Resolve",
+    "description": "Rebooking not completed (Inquiry only)",
+    "cards": [
+      {
+        "content": "As you have chosen not to proceed with the rebooking at this time, no changes have been made to your current booking.<br><br>If you wish to proceed, please contact us on or before [Deadline]. Kindly note that prices and availability are subject to change without prior notice, and the quoted fare may no longer be guaranteed after this date.",
+        "created": "2025-08-12T14:13:15.534Z",
+        "updated": "2025-08-12T14:13:45.053Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:13:53.019Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Close",
+    "description": "",
+    "cards": [
+      {
+        "content": "Thank you for using our service. Should you require any further assistance, please don’t hesitate to get in touch. Wishing you a wonderful day ahead!",
+        "created": "2025-08-12T14:13:53.038Z",
+        "updated": "2025-08-12T14:14:16.254Z"
+      },
+      {
+        "content": "Thank you for contacting us. Should you require any further assistance, please don’t hesitate to get in touch. Wishing you a wonderful day ahead!",
+        "created": "2025-08-12T14:14:18.010Z",
+        "updated": "2025-08-12T14:14:21.900Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T14:14:31.332Z"
   }
 ]

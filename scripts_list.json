@@ -6985,6 +6985,32 @@
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
   },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Not Stated & Not Verified",
+    "cards": [
+      {
+        "content": "Welcome to Customer Care [Customer First Name], you’re speaking with [Agent First Name].",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Before we get started, could you please provide me with your order number so I can confirm your details in our system?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Great! Thank you for sharing your information. How may I assist you today?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
     {
     "id": "CEP Scripts (B.COM)",
     "category": "chat",
@@ -7014,6 +7040,32 @@
     "cards": [
       {
         "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer First Name], you’re speaking with [Agent First Name]. How may I assist you today?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Not Stated & Not Verified",
+    "cards": [
+      {
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer First Name]! My name is [Agent First  Name]!",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Before we get started, could you please provide me with your order number so I can confirm your details in our system?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Great! Thank you for sharing your information. How may I assist you today?",
         "created": "2025-08-12T10:12:26.416Z",
         "updated": "2025-08-12T10:13:37.680Z"
       }

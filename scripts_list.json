@@ -6969,6 +6969,22 @@
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
   },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Not Stated but Verified",
+    "cards": [
+      {
+        "content": "Welcome to Customer Care [Customer First Name], you’re speaking with [Agent First Name]. How may I assist you today?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
     {
     "id": "CEP Scripts (B.COM)",
     "category": "chat",
@@ -6984,6 +7000,22 @@
         "content": "I see that you have shared your request, please give me a moment to review it.",
         "created": "2025-08-12T10:13:39.013Z",
         "updated": "2025-08-12T10:13:51.551Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+    {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Not Stated but Verified",
+    "cards": [
+      {
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer First Name], you’re speaking with [Agent First Name]. How may I assist you today?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
       }
     ],
     "tags": [],

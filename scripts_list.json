@@ -7375,5 +7375,717 @@
     "tags": [],
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Generic Script",
+    "cards": [
+      {
+        "content": "I understand that you need help with [request]. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Cancel",
+    "cards": [
+      {
+        "content": "I understand that you need help with cancellation. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Rebooking (Request stated - detail not provided)",
+    "cards": [
+      {
+        "content": "I understand that you need help with rebooking. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Rebooking (Request stated - new flight preference)",
+    "cards": [
+      {
+        "content": "Based on what you’ve shared, I understand that you wish to change your booking to [preferred date, time, etc,]. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Refund Delay",
+    "cards": [
+      {
+        "content": "I understand you're seeking an update on your refund. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "From the details you've shared, it appears you're inquiring about the status of your refund. Could you please confirm?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Complaint",
+    "cards": [
+      {
+        "content": "Thanks for letting us know. From the details you've shared, I understand that [paraphrase the issue]. Am I correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Generic Script",
+    "cards": [
+      {
+        "content": "I understand that you need help with [request]. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Cancel",
+    "cards": [
+      {
+        "content": "I understand that you need help with cancellation. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Rebooking (Request stated - detail not provided)",
+    "cards": [
+      {
+        "content": "I understand that you need help with rebooking. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Rebooking (Request stated - new flight preference)",
+    "cards": [
+      {
+        "content": "Based on what you’ve shared, I understand that you wish to change your booking to [preferred date, time, etc,]. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Refund Delay",
+    "cards": [
+      {
+        "content": "I understand you're seeking an update on your refund. Is that correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "From the details you've shared, it appears you're inquiring about the status of your refund. Could you please confirm?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Acknowledgement",
+    "description": "Complaint",
+    "cards": [
+      {
+        "content": "Thanks for letting us know. From the details you've shared, I understand that [paraphrase the issue]. Am I correct?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "Generic Script",
+    "cards": [
+      {
+        "content": "Great! I can look for the best possible solution for you.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "Can be resolved directly—no airline involvement nor transfer required.",
+    "cards": [
+      {
+        "content": "Perfect! I can definitely help with that.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "SC transfer required (customer informed of ASC)",
+    "cards": [
+      {
+        "content": "Thanks for letting us know. We will definitely find the best solution for you.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "Generic Script",
+    "cards": [
+      {
+        "content": "Great! I can look for the best possible solution for you.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "Can be resolved directly—no airline involvement nor transfer required.",
+    "cards": [
+      {
+        "content": "Perfect! I can definitely help with that.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Commit to Assist",
+    "description": "SC transfer required (customer informed of ASC)",
+    "cards": [
+      {
+        "content": "Thanks for letting us know. We will definitely find the best solution for you.",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Pre-Probing",
+    "description": "Unclear Request",
+    "cards": [
+      {
+        "content": "Can I ask you a few questions to better understand the situation?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Pre-Probing",
+    "description": "Customer shared complete details",
+    "cards": [
+      {
+        "content": "To better assist you, I’ll need to ask a few questions. Is that okay?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Pre-Probing",
+    "description": "Unclear Request",
+    "cards": [
+      {
+        "content": "Can I ask you a few questions to better understand the situation?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Pre-Probing",
+    "description": "Customer shared complete details",
+    "cards": [
+      {
+        "content": "To better assist you, I’ll need to ask a few questions. Is that okay?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Customer has not provided flight preferences.",
+    "cards": [
+      {
+        "content": "Could you please confirm your preferred flight date and time? Is there a specific flight number you'd like to rebook with?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Customer shared rebooking preferences—flight, date, and time.",
+    "cards": [
+      {
+        "content": "Do you prefer to rebook in the same cabin?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Multiple Passengers - customer hasn't specified who requires rebooking.",
+    "cards": [
+      {
+        "content": "Would you like to apply the changes to all passengers?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Multi-PNR roundtrip booking - customer hasn't indicated which flight requires changes.",
+    "cards": [
+      {
+        "content": "Is the change for the outbound flight, return flight, or both?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multiple Passengers - customer hasn't specified who requires cancellation.",
+    "cards": [
+      {
+        "content": "Could you please confirm which passenger(s) you'd like to cancel?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multiple Passengers - customer hasn't specified who requires cancellation.",
+    "cards": [
+      {
+        "content": "Could you please confirm which passenger(s) you'd like to cancel?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multi-PNR roundtrip booking - customer hasn't indicated which flight requires cancelaltion",
+    "cards": [
+      {
+        "content": "Are you requesting cancellation for the departure flight, the return flight, or the entire roundtrip?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "NACO",
+    "cards": [
+      {
+        "content": "What is the correct full name as per your government-issued ID or passport?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "NACH",
+    "cards": [
+      {
+        "content": "Is this a minor spelling correction, or does it involve a complete name change (e.g., due to legal reasons or marriage)?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Baggage",
+    "cards": [
+      {
+        "content": "Will the baggage be checked in or carried as cabin baggage?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "How many additional bags would you like to add, and what is the estimated weight of each?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Would you like to add baggage for both your outbound and return flights?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Would you like to add baggage for all passengers in the booking?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Customer has not provided flight preferences.",
+    "cards": [
+      {
+        "content": "Could you please confirm your preferred flight date and time? Is there a specific flight number you'd like to rebook with?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Customer shared rebooking preferences—flight, date, and time.",
+    "cards": [
+      {
+        "content": "Do you prefer to rebook in the same cabin?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Multiple Passengers - customer hasn't specified who requires rebooking.",
+    "cards": [
+      {
+        "content": "Would you like to apply the changes to all passengers?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Rebooking : Multi-PNR roundtrip booking - customer hasn't indicated which flight requires changes.",
+    "cards": [
+      {
+        "content": "Is the change for the outbound flight, return flight, or both?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multiple Passengers - customer hasn't specified who requires cancellation.",
+    "cards": [
+      {
+        "content": "Could you please confirm which passenger(s) you'd like to cancel?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multiple Passengers - customer hasn't specified who requires cancellation.",
+    "cards": [
+      {
+        "content": "Could you please confirm which passenger(s) you'd like to cancel?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Cancellation : Multi-PNR roundtrip booking - customer hasn't indicated which flight requires cancelaltion",
+    "cards": [
+      {
+        "content": "Are you requesting cancellation for the departure flight, the return flight, or the entire roundtrip?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "NACO",
+    "cards": [
+      {
+        "content": "What is the correct full name as per your government-issued ID or passport?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "NACH",
+    "cards": [
+      {
+        "content": "Is this a minor spelling correction, or does it involve a complete name change (e.g., due to legal reasons or marriage)?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "Actual Probing",
+    "description": "Baggage",
+    "cards": [
+      {
+        "content": "Will the baggage be checked in or carried as cabin baggage?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "How many additional bags would you like to add, and what is the estimated weight of each?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Would you like to add baggage for both your outbound and return flights?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Would you like to add baggage for all passengers in the booking?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
   }
 ]

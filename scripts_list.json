@@ -6951,8 +6951,8 @@
   {
     "id": "CEP Scripts",
     "category": "chat",
-    "title": "CHAT Opening (Non-Transferred",
-    "description": "Request stated & Verified",
+    "title": "CHAT Opening (Non-Transferred)",
+    "description": "Request Stated & Verified",
     "cards": [
       {
         "content": "Welcome to Customer Care [Customer First Name],  you’re speaking with [Agent First Name]. ",

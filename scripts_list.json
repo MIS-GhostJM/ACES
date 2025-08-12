@@ -7145,5 +7145,47 @@
     "tags": [],
     "created": "2025-08-12",
     "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (ETG)",
+    "category": "chat",
+    "title": "CHAT Opening (Transferred)",
+    "description": "Request Stated & Verified",
+    "cards": [
+      {
+        "content": "Welcome to Customer Care  [Customer Name], you’re speaking with [Agent Name].",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Before we get started, I see that my colleague has transferred your chat to my team for support. I would need some time to review your request to assist you better. Is that ok?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
+  },
+  {
+    "id": "CEP Scripts (B.COM)",
+    "category": "chat",
+    "title": "CHAT Opening (Transferred)",
+    "description": "Request Stated & Verified",
+    "cards": [
+      {
+        "content": "Welcome to Gotogate Customer Care in partnership with Booking.com [Customer Name]! My name is [Agent Name].",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      },
+      {
+        "content": "Before we get started, I see that my colleague has transferred your chat to my team for support. I would need some time to review your request to assist you better. Is that ok?",
+        "created": "2025-08-12T10:12:26.416Z",
+        "updated": "2025-08-12T10:13:37.680Z"
+      }
+    ],
+    "tags": [],
+    "created": "2025-08-12",
+    "updated": "2025-08-12T10:14:10.982Z"
   }
 ]
